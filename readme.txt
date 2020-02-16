@@ -5,3 +5,4 @@ This is 4 line.
 Git tracks changes.
 
 Test branch dev.
+Creating a new branch is quick And simple.
